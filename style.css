@@ -16,6 +16,10 @@ img-div {
   height: auto;
   margin: 0;
 }
+#img-caption {
+  font-style: italic;
+  font-size: 13px;
+}
 
 .responsive {
   display: block;
