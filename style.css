@@ -1,0 +1,46 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: Arial;
+  text-align: center;
+}
+
+h1 {
+  font-size: 100px;
+  font-family: Helvetica;
+  color: #F74902;
+}
+
+img-div {
+  width: 100%;
+  height: auto;
+  margin: 0;
+}
+
+.responsive {
+  display: block;
+  max-width: 500px;
+  width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+#tribute-info {
+  display: block;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+#links {
+  color: orange;
+  font-family: Montserrat;
+  margin-left: 200px;
+  margin-right: 200px;
+}
+#tribute-link {
+  margin-left: 165px;
+  margin-right: 200px;
+  color: #F74902;
+}
+hr {
+  border-color: #F74902;
+}
